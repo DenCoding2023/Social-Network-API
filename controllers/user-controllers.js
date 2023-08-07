@@ -1,5 +1,5 @@
 const { User} = require('../models');
-const {Thought} = require('..models');
+const {Thought} = require('../models');
 
 module.exports = {
   async getUsers(req, res) {
