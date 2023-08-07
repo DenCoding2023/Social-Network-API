@@ -30,3 +30,20 @@ const thoughtSchema = new Schema(
         id: false,
     }
 );
+
+thoughtSchema.virtual('reactionCount').get(function () {
+    return this.reactions.length;
+});
+
+function formatTimestamp(timestamp) {
+    const options = {
+        year: "numeric",
+        month: "long",
+        day: "numeric",
+    };
+    return timestamp.toLocaleDateString("en-US", options) + " at " + timestamp.toLocaleTimeString();
+}
+
+const Thought = model('thought', thoughtSchema);
+
+module.exports = Thought;
