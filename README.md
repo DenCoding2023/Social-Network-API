@@ -22,7 +22,7 @@ The project is a social network Api application  where the user can share their 
 6. Run the "Get, Post, Put and Delete request agaist the API.
 
 ## Usage
-link to video: https://watch.screencastify.com/v/IwEuNBrdyyjN6evWDvTl
+link to video: https://watch.screencastify.com/v/FCw5epBtXehAX2z5yyeU
 
 ![Alt text](<images/get all thoughts.jpg>)
 ![Alt text](images/thoughts.jpg)
