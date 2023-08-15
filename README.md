@@ -30,10 +30,9 @@ link to video: https://watch.screencastify.com/v/FCw5epBtXehAX2z5yyeU
 ![Alt text](<images/single thought.jpg>)
 ## References
 
-1. https://stackoverflow.com/questions/50354817/sequelize-decimal-data-save-with-2-decimal-points
-2. compare used as resource: https://github.com/mollysal/E-Commerce-Back-End/blob/main/models/ProductTag.js
-3. Video Guide: https://youtu.be/b3jgsfbJijw
-4. Assitance from Adress Jimenes from Calendy tutors. 
+1. compare used as resource: https://github.com/joce1ynn/social-network-NoSQL
+2. Video Guide: https://youtu.be/CMaXuKK3Jjc
+3. Assitance from Adress Jimenes from Calendy tutors. 
 
 ## Contact
 1. Dennis Luciano
